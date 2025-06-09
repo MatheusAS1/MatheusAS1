@@ -1,6 +1,5 @@
 ## Sobre mim
 - 18 Anos
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🚀 Tenho interesse em Engenharia de Dados e em Desenvolvimento Back-End e desejo me aprofundar cada vez mais nessas áreas!
 - 🎓 Formado em Eletrônica pelo IFPE, atualmente estudando Análise e Desenvolvimento de Sistemas no CESAR School e cursando Engenharia de Controle e Automação na UFPE.
 - 🌱 Foco em aprender mais sobre Python, SQL e Java.
