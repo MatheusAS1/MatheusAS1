@@ -26,7 +26,7 @@
 
 <br>
 
-## 🌐 Minha rede de contatos:
+## 🌐 Entre em contato:
 
 <p align="center">
   <div style="display: inline-block; margin-right: 20px;">
