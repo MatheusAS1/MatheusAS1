@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
+
 ## Sobre mim
 - 18 Anos
 - 🚀 Tenho interesse em Engenharia de Dados e em Desenvolvimento Back-End e desejo me aprofundar cada vez mais nessas áreas!
@@ -40,3 +42,4 @@
     </a> 
   </div>
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
